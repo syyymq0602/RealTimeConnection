@@ -32,7 +32,7 @@ namespace GrpcServer.Web.Data
                 No = 2001,
                 FirstName = "LLLL",
                 LastName = "CCCC",
-                Salary = 2400
+                Salary = 2600
             }
         };
     }
