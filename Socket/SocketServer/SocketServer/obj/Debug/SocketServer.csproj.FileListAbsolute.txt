@@ -1,0 +1,6 @@
+C:\Users\tpl\Desktop\RealTimeConnection\Socket\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\tpl\Desktop\RealTimeConnection\Socket\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\tpl\Desktop\RealTimeConnection\Socket\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\tpl\Desktop\RealTimeConnection\Socket\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\RealTimeConnection\Socket\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\tpl\Desktop\RealTimeConnection\Socket\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
