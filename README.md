@@ -10,4 +10,10 @@
     - 在Client端根据Server端的套接字定义一样的接口（new Socket）
     - 连接后用永真循环进行一直监听（while（true））
 *****
+2. SignalR
+    - SignalR采用Hub中心传递数据信息
+    - Server端主要采用了Hub强类型，可以进行对组、指定用户以及所有用户的广播，可以将连接用户加入组或者移除组。
+    - ClientOther端连接Server端后**需要循环**保持监听信息的发送，否则ClientOther不能调用HubConnection.On方法
+    - Client端主要采用延时1s永真循环保持信息一直发送，在信息发送过程中可直接传输对话或者序列化。
+***** 
 

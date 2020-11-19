@@ -108,8 +108,6 @@ C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\bin\Debug\netcorea
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.csprojAssemblyReference.cache
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfoInputs.cache
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfo.cs
-C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.csproj.CoreCompileInputs.cache
-C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.RazorAssemblyInfo.cache
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.RazorAssemblyInfo.cs
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.TagHelpers.input.cache
@@ -125,3 +123,5 @@ C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcorea
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.dll
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.pdb
 C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.genruntimeconfig.cache
+C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\tpl\Desktop\RealTimeConnection\SignalR\SignalRServer\obj\Debug\netcoreapp3.1\ChatServer.MvcApplicationPartsAssemblyInfo.cache
