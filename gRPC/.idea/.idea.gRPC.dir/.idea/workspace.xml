@@ -27,13 +27,13 @@
       <change beforePath="$PROJECT_DIR$/GrpcClient/Protos/Messages.proto" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/Protos/Messages.proto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/bin/Debug/netcoreapp3.1/GrpcClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/bin/Debug/netcoreapp3.1/GrpcClient.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/bin/Debug/netcoreapp3.1/GrpcClient.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/bin/Debug/netcoreapp3.1/GrpcClient.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csprojAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/Protos/Messages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/Protos/Messages.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/obj/GrpcClient.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/GrpcClient.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/GrpcClient.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/GrpcClient.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcClient/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcServer/.vs/GrpcServer/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/.vs/GrpcServer/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
@@ -41,9 +41,14 @@
       <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/Services/MyEmployeeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/Services/MyEmployeeService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/bin/Debug/netcoreapp3.1/GrpcServer.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/bin/Debug/netcoreapp3.1/GrpcServer.Web.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/bin/Debug/netcoreapp3.1/GrpcServer.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/bin/Debug/netcoreapp3.1/GrpcServer.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/GrpcServer.Web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/GrpcServer.Web.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.sln" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,6 +94,7 @@
       <updated>1605793989796</updated>
       <workItem from="1605793993081" duration="834000" />
       <workItem from="1605861179198" duration="447000" />
+      <workItem from="1605869528588" duration="1296000" />
     </task>
     <servers />
   </component>
@@ -107,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
