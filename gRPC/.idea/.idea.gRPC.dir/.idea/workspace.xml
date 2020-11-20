@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="297581d1-6e1b-4e82-81d0-680fa46a7017" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GrpcClient/.vs/GrpcClient/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/.vs/GrpcClient/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/.vs/GrpcClient/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/.vs/GrpcClient/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/GrpcClient.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/Protos/Messages.proto" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/Protos/Messages.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/bin/Debug/netcoreapp3.1/GrpcClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/bin/Debug/netcoreapp3.1/GrpcClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/bin/Debug/netcoreapp3.1/GrpcClient.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/bin/Debug/netcoreapp3.1/GrpcClient.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/GrpcClient.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/Protos/Messages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/Debug/netcoreapp3.1/Protos/Messages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/GrpcClient.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/GrpcClient.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/GrpcClient.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/GrpcClient.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcClient/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcClient/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/.vs/GrpcServer/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/.vs/GrpcServer/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/.vs/GrpcServer/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/.vs/GrpcServer/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/Services/MyEmployeeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/Services/MyEmployeeService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/bin/Debug/netcoreapp3.1/GrpcServer.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/bin/Debug/netcoreapp3.1/GrpcServer.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/bin/Debug/netcoreapp3.1/GrpcServer.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/bin/Debug/netcoreapp3.1/GrpcServer.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/obj/Debug/netcoreapp3.1/GrpcServer.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrpcServer/GrpcServer.sln" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GrpcClient/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GrpcServer/GrpcServer.Web/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GrpcServer/GrpcServer.Web/Services/MyEmployeeService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GrpcServer/GrpcServer.Web/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GrpcServer/GrpcServer.Web/Services/MyEmployeeService.cs" />
+        <option value="$PROJECT_DIR$/GrpcClient/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kVmAR83sGTc4XFSUATNmva8JZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="297581d1-6e1b-4e82-81d0-680fa46a7017" name="Default Changelist" comment="" />
+      <created>1605793989796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605793989796</updated>
+      <workItem from="1605793993081" duration="834000" />
+      <workItem from="1605861179198" duration="447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="221" width="1040" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605861626378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="221" width="1040" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605861626378" />
+  </component>
+</project>
