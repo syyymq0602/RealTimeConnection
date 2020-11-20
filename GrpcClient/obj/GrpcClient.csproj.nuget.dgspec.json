@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcClient\\GrpcClient.csproj": {}
+    "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcClient\\GrpcClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcClient\\GrpcClient.csproj": {
+    "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcClient\\GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcClient\\GrpcClient.csproj",
+        "projectUniqueName": "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcClient\\GrpcClient.csproj",
         "projectName": "GrpcClient",
-        "projectPath": "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcClient\\GrpcClient.csproj",
+        "projectPath": "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcClient\\GrpcClient.csproj",
         "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcClient\\obj\\",
+        "outputPath": "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",

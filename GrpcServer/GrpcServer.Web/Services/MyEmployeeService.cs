@@ -25,7 +25,6 @@ namespace GrpcServer.Web.Services
             {
                 _logger.LogInformation($"{pair.Key}:{pair.Value}");
             }
-
             var employee = InMemoryData.Employees
                 .SingleOrDefault(x => x.No == request.No);
             if (employee != null)
@@ -36,19 +35,19 @@ namespace GrpcServer.Web.Services
                 };
                 return Task.FromResult(response);
             }
-                throw new Exception($"Employee not found with no : {request.No}");
+            throw new Exception($"Employee not found with no : {request.No}");
         }
+
         public override async Task 
             GetAll(GetAllRequest request, IServerStreamWriter<EmployeeResponse> responseStream, ServerCallContext context)
         {
-           // return base.GetAll(request, responseStream, context);
            foreach(var employee in InMemoryData.Employees)
-            {
+           {
                 await responseStream.WriteAsync(new EmployeeResponse
                 {
                     Employee = employee
-                }); ;
-            }
+                }); 
+           }
         }
 
         public override async Task<AddPhotoResponse> 

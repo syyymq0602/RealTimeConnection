@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zrWgMTUudp+52QZ7HEqU4YEkW++nPJbZkuM8Sy4H1EDPY4N6SLJMf/cWtubp6wwc4tQXl44BDWfSeCl/mdRQUQ==",
+  "dgSpecHash": "KXg6ZTCdAbZGbUr8VHZvwqxR/HC0CQunmfqgkmW4E130a6l+r9gjV61HdM+76z5/TP1Vw4fcxli23cTGH+tePQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcClient\\GrpcClient.csproj",
+  "projectFilePath": "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcClient\\GrpcClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tpl\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
     "C:\\Users\\tpl\\.nuget\\packages\\grpc.core.api\\2.32.0\\grpc.core.api.2.32.0.nupkg.sha512",

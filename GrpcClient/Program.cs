@@ -5,6 +5,7 @@ using GrpcServer.Web.Protos;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace GrpcClient
@@ -13,13 +14,11 @@ namespace GrpcClient
     {
         static async Task Main(string[] args)
         {
-          
+            
             using var channel = GrpcChannel.ForAddress("https://localhost:5001");
             var client = new EmployeeService.EmployeeServiceClient(channel);
-
-            var option = int.Parse(args[0]);
-            switch (option)
-            {
+            var option = 5;
+            switch(option){
                 case 1:
                     await GetByNoAsync(client);
                     break;
@@ -32,38 +31,33 @@ namespace GrpcClient
                 case 5:
                     await SaveAllAsync(client);
                     break;
-            }
-
-            
+            }           
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
-
         public static async Task GetByNoAsync(EmployeeService.EmployeeServiceClient client)
         {
-            var md = new Metadata
-            {
+            var md = new Metadata{
                 {"username","dave" },
                 {"role","administrator" }
             };
-
             var response = await client.GetByNoAsync(new GetByNoRequest
             {
-                No = 1994
+                No = 1994,
             }, md);
-
-            Console.WriteLine($"Response message:{response}");
+            Console.WriteLine($"Response messages : {response}");
         }
-
+        
         public static async Task GetAllAsync(EmployeeService.EmployeeServiceClient client)
         {
             using var call = client.GetAll(new GetAllRequest());
             var responseStream = call.ResponseStream;
             while(await responseStream.MoveNext())
             {
-                Console.WriteLine(responseStream.Current.Employee);
+                Console.WriteLine(responseStream.Current.Info);
             }
         }
+        
         public static async Task AddPhotoAsync(EmployeeService.EmployeeServiceClient client)
         {
             var md = new Metadata
@@ -73,11 +67,10 @@ namespace GrpcClient
             };
             FileStream fs = File.OpenRead("36.png");
             using var call = client.AddPhoto(md);
-
             var stream = call.RequestStream;
             while (true)
             {
-                byte[] buffer = new byte[1024];
+                byte[] buffer = new byte[2000];
                 int numRead = await fs.ReadAsync(buffer, 0, buffer.Length);
                 if(numRead == 0)
                 {
@@ -101,7 +94,7 @@ namespace GrpcClient
 
             Console.WriteLine(res.IsOk);
         }
-
+        
         public static async Task SaveAllAsync(EmployeeService.EmployeeServiceClient client)
         {
             var employees = new List<Employee>
@@ -130,7 +123,7 @@ namespace GrpcClient
             {
                 while (await responseStream.MoveNext())
                 {
-                    Console.WriteLine($"Saved:{ responseStream.Current.Employee }");
+                    Console.WriteLine($"Saved:{ responseStream.Current.Info }");
                 }
             });
 
@@ -144,6 +137,8 @@ namespace GrpcClient
             }
 
             await requestStream.CompleteAsync();
-            await responseTask;        }
+            await responseTask;
+        }
+        
     }
 }

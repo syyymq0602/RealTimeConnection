@@ -27,23 +27,23 @@ namespace GrpcServer.Web.Protos {
             "ChVQcm90b3MvTWVzc2FnZXMucHJvdG8iVwoIRW1wbG95ZWUSCgoCaWQYASAB",
             "KAUSCgoCbm8YAiABKAUSEQoJZmlyc3ROYW1lGAMgASgJEhAKCGxhc3ROYW1l",
             "GAQgASgJEg4KBnNhbGFyeRgFIAEoAiIcCg5HZXRCeU5vUmVxdWVzdBIKCgJu",
-            "bxgBIAEoBSIvChBFbXBsb3llZVJlc3BvbnNlEhsKCGVtcGxveWVlGAEgASgL",
-            "MgkuRW1wbG95ZWUiDwoNR2V0QWxsUmVxdWVzdCIfCg9BZGRQaG90b1JlcXVl",
-            "c3QSDAoEZGF0YRgBIAEoDCIgChBBZGRQaG90b1Jlc3BvbnNlEgwKBGlzT2sY",
-            "ASABKAgiLgoPRW1wbG95ZWVSZXF1ZXN0EhsKCGVtcGxveWVlGAEgASgLMgku",
-            "RW1wbG95ZWUygwIKD0VtcGxveWVlU2VydmljZRItCgdHZXRCeU5vEg8uR2V0",
-            "QnlOb1JlcXVlc3QaES5FbXBsb3llZVJlc3BvbnNlEi0KBkdldEFsbBIOLkdl",
-            "dEFsbFJlcXVlc3QaES5FbXBsb3llZVJlc3BvbnNlMAESMQoIQWRkUGhvdG8S",
-            "EC5BZGRQaG90b1JlcXVlc3QaES5BZGRQaG90b1Jlc3BvbnNlKAESKwoEU2F2",
-            "ZRIQLkVtcGxveWVlUmVxdWVzdBoRLkVtcGxveWVlUmVzcG9uc2USMgoHU2F2",
-            "ZUFsbBIQLkVtcGxveWVlUmVxdWVzdBoRLkVtcGxveWVlUmVzcG9uc2UoATAB",
-            "QhiqAhVHcnBjU2VydmVyLldlYi5Qcm90b3NiBnByb3RvMw=="));
+            "bxgBIAEoBSIgChBFbXBsb3llZVJlc3BvbnNlEgwKBEluZm8YASABKAkiDwoN",
+            "R2V0QWxsUmVxdWVzdCIfCg9BZGRQaG90b1JlcXVlc3QSDAoEZGF0YRgBIAEo",
+            "DCIgChBBZGRQaG90b1Jlc3BvbnNlEgwKBGlzT2sYASABKAgiLgoPRW1wbG95",
+            "ZWVSZXF1ZXN0EhsKCGVtcGxveWVlGAEgASgLMgkuRW1wbG95ZWUygwIKD0Vt",
+            "cGxveWVlU2VydmljZRItCgdHZXRCeU5vEg8uR2V0QnlOb1JlcXVlc3QaES5F",
+            "bXBsb3llZVJlc3BvbnNlEi0KBkdldEFsbBIOLkdldEFsbFJlcXVlc3QaES5F",
+            "bXBsb3llZVJlc3BvbnNlMAESMQoIQWRkUGhvdG8SEC5BZGRQaG90b1JlcXVl",
+            "c3QaES5BZGRQaG90b1Jlc3BvbnNlKAESKwoEU2F2ZRIQLkVtcGxveWVlUmVx",
+            "dWVzdBoRLkVtcGxveWVlUmVzcG9uc2USMgoHU2F2ZUFsbBIQLkVtcGxveWVl",
+            "UmVxdWVzdBoRLkVtcGxveWVlUmVzcG9uc2UoATABQhiqAhVHcnBjU2VydmVy",
+            "LldlYi5Qcm90b3NiBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcServer.Web.Protos.Employee), global::GrpcServer.Web.Protos.Employee.Parser, new[]{ "Id", "No", "FirstName", "LastName", "Salary" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcServer.Web.Protos.GetByNoRequest), global::GrpcServer.Web.Protos.GetByNoRequest.Parser, new[]{ "No" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::GrpcServer.Web.Protos.EmployeeResponse), global::GrpcServer.Web.Protos.EmployeeResponse.Parser, new[]{ "Employee" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::GrpcServer.Web.Protos.EmployeeResponse), global::GrpcServer.Web.Protos.EmployeeResponse.Parser, new[]{ "Info" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcServer.Web.Protos.GetAllRequest), global::GrpcServer.Web.Protos.GetAllRequest.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcServer.Web.Protos.AddPhotoRequest), global::GrpcServer.Web.Protos.AddPhotoRequest.Parser, new[]{ "Data" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::GrpcServer.Web.Protos.AddPhotoResponse), global::GrpcServer.Web.Protos.AddPhotoResponse.Parser, new[]{ "IsOk" }, null, null, null, null),
@@ -571,7 +571,7 @@ namespace GrpcServer.Web.Protos {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public EmployeeResponse(EmployeeResponse other) : this() {
-      employee_ = other.employee_ != null ? other.employee_.Clone() : null;
+      info_ = other.info_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -580,14 +580,14 @@ namespace GrpcServer.Web.Protos {
       return new EmployeeResponse(this);
     }
 
-    /// <summary>Field number for the "employee" field.</summary>
-    public const int EmployeeFieldNumber = 1;
-    private global::GrpcServer.Web.Protos.Employee employee_;
+    /// <summary>Field number for the "Info" field.</summary>
+    public const int InfoFieldNumber = 1;
+    private string info_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    public global::GrpcServer.Web.Protos.Employee Employee {
-      get { return employee_; }
+    public string Info {
+      get { return info_; }
       set {
-        employee_ = value;
+        info_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
       }
     }
 
@@ -604,14 +604,14 @@ namespace GrpcServer.Web.Protos {
       if (ReferenceEquals(other, this)) {
         return true;
       }
-      if (!object.Equals(Employee, other.Employee)) return false;
+      if (Info != other.Info) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override int GetHashCode() {
       int hash = 1;
-      if (employee_ != null) hash ^= Employee.GetHashCode();
+      if (Info.Length != 0) hash ^= Info.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -628,9 +628,9 @@ namespace GrpcServer.Web.Protos {
     #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       output.WriteRawMessage(this);
     #else
-      if (employee_ != null) {
+      if (Info.Length != 0) {
         output.WriteRawTag(10);
-        output.WriteMessage(Employee);
+        output.WriteString(Info);
       }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
@@ -641,9 +641,9 @@ namespace GrpcServer.Web.Protos {
     #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
-      if (employee_ != null) {
+      if (Info.Length != 0) {
         output.WriteRawTag(10);
-        output.WriteMessage(Employee);
+        output.WriteString(Info);
       }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
@@ -654,8 +654,8 @@ namespace GrpcServer.Web.Protos {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
       int size = 0;
-      if (employee_ != null) {
-        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Employee);
+      if (Info.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(Info);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -668,11 +668,8 @@ namespace GrpcServer.Web.Protos {
       if (other == null) {
         return;
       }
-      if (other.employee_ != null) {
-        if (employee_ == null) {
-          Employee = new global::GrpcServer.Web.Protos.Employee();
-        }
-        Employee.MergeFrom(other.Employee);
+      if (other.Info.Length != 0) {
+        Info = other.Info;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -689,10 +686,7 @@ namespace GrpcServer.Web.Protos {
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
             break;
           case 10: {
-            if (employee_ == null) {
-              Employee = new global::GrpcServer.Web.Protos.Employee();
-            }
-            input.ReadMessage(Employee);
+            Info = input.ReadString();
             break;
           }
         }
@@ -710,10 +704,7 @@ namespace GrpcServer.Web.Protos {
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
             break;
           case 10: {
-            if (employee_ == null) {
-              Employee = new global::GrpcServer.Web.Protos.Employee();
-            }
-            input.ReadMessage(Employee);
+            Info = input.ReadString();
             break;
           }
         }

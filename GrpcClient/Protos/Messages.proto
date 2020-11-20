@@ -15,7 +15,7 @@ message GetByNoRequest{
 }
 
 message EmployeeResponse{
-	Employee employee = 1;
+	string Info = 1;
 }
 message GetAllRequest{
 

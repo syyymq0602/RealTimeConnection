@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcServer\\GrpcServer.Web\\GrpcServer.Web.csproj",
+      "projectUniqueName": "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcServer\\GrpcServer.Web\\GrpcServer.Web.csproj",
       "projectName": "GrpcServer.Web",
-      "projectPath": "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcServer\\GrpcServer.Web\\GrpcServer.Web.csproj",
+      "projectPath": "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcServer\\GrpcServer.Web\\GrpcServer.Web.csproj",
       "packagesPath": "C:\\Users\\tpl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpl\\Desktop\\主泵\\aa\\gRPC\\GrpcServer\\GrpcServer.Web\\obj\\",
+      "outputPath": "C:\\Users\\tpl\\Desktop\\RealTimeConnection\\Grpc\\GrpcServer\\GrpcServer.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tpl\\AppData\\Roaming\\NuGet\\NuGet.Config",
